@@ -12,5 +12,5 @@ descriptors for 20,000 MOFs sampled from the ARC-MOF database.
   low-pressure CO2 adsorption being governed by binding chemistry that geometric
   descriptors cannot capture
 
-**Data:** ARC-MOF database (Burner et al., University of Ottawa), Zenodo:
-https://zenodo.org/records/16802743
+**Data:** Burner, J. et al. (2025). ab initio REPEAT Charge MOF Database (ARC-MOF), v7.
+Zenodo. https://doi.org/10.5281/zenodo.16802743 (CC BY 4.0)

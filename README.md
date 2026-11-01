@@ -1,4 +1,3 @@
-# randomforest
 # Machine learning prediction of CO2 uptake in MOFs at post-combustion conditions
 
 Random forest model predicting CO2 uptake (mmol/g) at 0.15 bar and 298 K, the adsorption
